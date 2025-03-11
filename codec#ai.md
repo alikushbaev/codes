@@ -1,5 +1,6 @@
 
 # C# Ai Помощник
+[Ютуб Ролик](https://youtu.be/jQjT1xPKEEw)
 
 ```c#
 using System;
